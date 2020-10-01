@@ -29,3 +29,12 @@ Skin Cancer is primarily diagnosed with visual beginning with an initial clinica
 ![Screenshot 2020-10-01 220403](https://user-images.githubusercontent.com/55208353/94837862-67b93900-0432-11eb-8aa1-97e3ed2c8b84.png)
 
 ![Screenshot 2020-10-01 220459](https://user-images.githubusercontent.com/55208353/94837880-6ab42980-0432-11eb-9fc6-1e7e5bd27644.png)
+ 
+ ## Technology Used 
+     Pythonopencvtkinterscikit-learntensorflowbeautifulsoupnumpykerasseleniumpickle
+ #### Python
+ #### Opencv
+ #### Tensorflow
+ #### Keras
+ 
+ 
