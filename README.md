@@ -1,8 +1,9 @@
-# skincancerdetection
-Objective and Motivation :-
+#Skincancerdetection
+
+## Objective and Motivation :-
 The Objective of this project to construct CNN , Random Forest ,K-NN and Naïve baye to predict whether mole whether it is Benign or Malignant and allowing the user to find nearby doctors and making appointment with them .
 
-Some Facts Related to Skin Cancer 
+## Some Facts Related to Skin Cancer 
 1.India ranks third in cancer cases after China and the US .
 2.Every year India reports more than a million new cancer cases. 
 3.Among them, half million deaths happen due to the ignorance of the disease. 
